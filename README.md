@@ -1,6 +1,8 @@
 가계부 입니다.
 
 기본 화면입니다.
+
+
 ![기본](https://user-images.githubusercontent.com/98572679/165718896-c5ba3bac-6d66-4304-bf16-1e74069fc04e.PNG)
 
 추가하기 버튼을 누르면 상호작용하여 아래를 기입하고 추가하기 누릅니다
